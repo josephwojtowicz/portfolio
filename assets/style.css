@@ -2,26 +2,26 @@
     font-family: 'Quicksand', sans-serif;
 }
 .body {
-    background-color: floralwhite;
+    background-color: oldlace;
 }
 .page {
     text-decoration:black;
-    background-color: floralwhite;
+    background-color: oldlace;
 }
 .me {
     float: left;
     margin: 20px;
 }
 .container {
-    background-color: floralwhite;
+    background-color: oldlace;
     margin: 20px;
     padding: 30px;
 }
 .card {
-    background-color: floralwhite;
+    background-color: oldlace;
 }
 .about {
-    background-color: floralwhite;    
+    background-color: oldlace;    
 }
 .footer {
     position: fixed;
