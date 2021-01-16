@@ -10,7 +10,13 @@
 }
 .me {
     float: left;
-    margin: 20px;
+    margin: auto;
+    padding: 20px;
+}
+.heading {
+    font-weight: bold;
+    font-weight: 800;
+    
 }
 .container {
     background-color: oldlace;
@@ -21,6 +27,7 @@
     background-color: oldlace;
 }
 .about {
+    margin: auto;
     background-color: oldlace;    
 }
 .footer {
