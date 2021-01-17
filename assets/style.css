@@ -16,7 +16,7 @@
 .heading {
     font-weight: bold;
     font-weight: 800;
-    
+
 }
 .container {
     background-color: oldlace;
@@ -30,6 +30,19 @@
     margin: auto;
     background-color: oldlace;    
 }
+.cocktailcurator {
+    width: 75%;
+    height: auto;
+}
+.thomas {
+    width: 75%;
+    height: auto;
+}
+.doctor {
+    width: 75%;
+    height: auto;
+}
+
 .footer {
     position: fixed;
     left: 0;
